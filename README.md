@@ -1,4 +1,3 @@
-# Yc_demo_countTime
 【Android Demo】倒计时
 
 在 Android 系统中UI操作并不是线程安全的，如果多个线程并发的去操作同一个组件，可能导致线程安全问题。
